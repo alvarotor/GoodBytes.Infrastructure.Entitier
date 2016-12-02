@@ -1,0 +1,4 @@
+﻿#warning Create a system to not check certain fields that exists on model and not on store procedures
+#warning Create a system to use the most used reading methods
+#warning Provide RowsAffected to be able to be checked in some methods?
+
